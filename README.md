@@ -1,1 +1,0 @@
-# EscolaDaNuvem-Atividade-Python
