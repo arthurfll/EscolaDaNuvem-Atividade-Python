@@ -2,8 +2,6 @@
 
 Crie um programa que converte um valor em reais para dólares e euros. Use os seguintes dados:
 
-
-
 Valor em reais: R$ 100.00
 
 Taxa do dólar: R$ 5.60
@@ -15,8 +13,6 @@ O programa deve calcular e exibir os valores convertidos, arredondando para duas
 2- Calculadora de Desconto 
 
 Desenvolva um programa que calcula o desconto em uma loja. Use as seguintes informações:
-
-
 
 Nome do produto: "Camiseta"
 
